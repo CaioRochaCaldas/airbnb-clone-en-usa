@@ -1,7 +1,6 @@
 ## Project details template
 
-This application (airbnb clone en usa) was built using React Js with (date-fns,react,react-date-range,react-dom,react-router-dom,react-scripts,web-vitals).This project is a single page application with the intent for the user have the same intention as the official airbnb website.the aplication 
-the application consists of the main page,date agendation and explore nearby.
+This application (airbnb clone en usa) was built using React Js with the following dependencies (firebase,react,react-dom,react-flip-move,react-instagram-embed,react-scripts).This project is a single page application with the intent for the user have the same intention as the official airbnb website.The application consists of the main page and login page the user can comment the posts and besides that the user can make their own posts just like the official  instagram web page.
 
 ![](https://github.com/CaioRochaCaldas/airbnb-clone-en-usa/blob/master/demo%20imgs/1.png)
 
